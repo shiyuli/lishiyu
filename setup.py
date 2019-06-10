@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lishiyu",
-    version="0.0.1",
+    version="0.0.2",
     author="lishiyu",
     author_email="author@example.com",
     description="PP - Personal Package",
